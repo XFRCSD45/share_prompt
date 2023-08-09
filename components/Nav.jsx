@@ -23,7 +23,7 @@ const Nav = () => {
         height={30}
         className="object-contain"
         />
-        <p className="logo_text">Promptopia</p>
+        <p className="logo_text">ThoughtTide</p>
       </Link>
       {/*Desktop Navigation*/ }
       <div className="sm:flex hidden">
