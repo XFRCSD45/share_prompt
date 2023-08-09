@@ -11,7 +11,7 @@ const Home = () => {
     </span>
     </h1>
     <p className='desc text-center'>
-        ThoughtTide is an social platform  for users to discover, think and share creative thoughts and ideas
+        ThoughtTide is a social platform  for users to discover, think and share creative thoughts and ideas
     </p>
     <Feed/>
    </section>
